@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+.container {
+    width: 500px;
+    margin: auto;  
+    background-color: white; 
+}
+img {
+    width: 100%;
+}
+.post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+.fa-html5 {
+    font-size: 40px;
+}
+.fa-heart {
+    margin-right: 5px;
+    font-size: 20px;
+}
+.fa-comment {
+    margin-right: 5px;
+    font-size: 20px;
+}
+.fa-paper-plane {
+    margin-right: 5px;
+    font-size: 20px;
+}
